@@ -1,0 +1,3 @@
+Unfortunately the PHPUnit test suite was not working on my device. I was unable to set up tests and in fairness of the hour
+long time constraint, I decided to write down the test cases and the expected outputs in place of actually coding the unit 
+tests.
